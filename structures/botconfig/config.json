@@ -1,0 +1,36 @@
+{
+    "env": {
+        "TOKEN": "",
+        "PREFIX": "!",
+        "MongoDB_TOKEN": "mongodb+srv://UchihaBot:UchihaBot@cluster0.dgszs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+        "INVITE": "https://discord.com/api/oauth2/authorize?client_id=907812589306773524&permissions=1395830160503&scope=bot%20applications.commands",
+        "WEBSITE": "https://example.com",
+        "google_API": "AIzaSyDId_oN6acZT-UMHTfYEZUgIcl4GVn1s6g",
+        "google_Engine_id": "2166875ec165a6c21",
+        "news_API": "94017eeabd5946ada0303d205c4798ee",
+        "giphy_API": "xsBNwSedRrwrwn1ZyjVRta93i00yhpiJ" ,
+        "spotify_clientSecret": "b7b09e0c0fef43e8bb0a4e0ed6918477",
+        "spotify_clientID": "f671a75b14a34c8cbe3956960873dc08"
+    },
+    "music": {
+        "musicRequestImage": "",
+        "youtubeCookie": "VISITOR_INFO1_LIVE=5tu8QQG8-BA; SID=EAjiV3znEQszubjsRHOY0kaQghYXdMkpwIEglA_Zr0IdqcrfDfEOdB9GldJ96NH-bR9O9A.; __Secure-1PSID=EAjiV3znEQszubjsRHOY0kaQghYXdMkpwIEglA_Zr0IdqcrfU2JnUEJKyI-4RVhaxbe4Yg.; __Secure-3PSID=EAjiV3znEQszubjsRHOY0kaQghYXdMkpwIEglA_Zr0Idqcrf0YrvllRYcHqngNs-jT0Vmw.; HSID=Ajxm0H5wNF1IkkyZ_; SSID=AjZiOtolvFvhTQUX5; APISID=eldjCushWvww7udN/AM7sNr0PuR-L5x3hD; SAPISID=CM9PFYgoOCUklKJz/ARQctM0VN6GdkSbGL; __Secure-1PAPISID=CM9PFYgoOCUklKJz/ARQctM0VN6GdkSbGL; __Secure-3PAPISID=CM9PFYgoOCUklKJz/ARQctM0VN6GdkSbGL; YSC=5n0ANQ117EA; LOGIN_INFO=AFmmF2swRQIhAOvnag4nukpr2M-BwhTc-FFHAVf3OIz4z7unRCdBIbJFAiANTrZ8vw5eHxk2GhgcV3z2kubMTA0kL7P5sczDkdrawQ:QUQ3MjNmd2x0dW9jb0FRbGpVNUNNZFpXeGNSZWp4VngtWTdGazVYR2diY0Q1WkhNX1UycHd0T2NIUFg1S0psN3E3WnM1c25zZGRsME0zYlJ2UTBzdlV2b1praGpsYU9PNm5wWmNIem5uNXN3X3JjaWNQbkIzR0JwUkVwQUZ6MDlYLTBnME9lZ2M3MWFZeWFlNjJnOHlYcnZzZ1g0b2dfSUFR; PREF=tz=Asia.Calcutta&f6=40000000; CONSISTENCY=AGDxDeNTO0pHnOA-RuF2jtttgxtEADlsJA6X3Bv0j93yPzzwvXYc4fYstsRzXoKw3lec3IEhI39iBCOvuBSTCP5SuNwujxzLgkT_irJkLkCU0bez3zfdgU4zKZAiV6K40xiR6IoolcVfl-y6F1nXd9Zp; SIDCC=AJi4QfERQqPMSFpCxE0LBSO1-9sFsNqgQvwZTp3iH7pkiR3toomFa8KKV9WHivENXW6GdDgW; __Secure-3PSIDCC=AJi4QfFRbB-UGnrZ71Ex-OlxoAF9MA9mBPEfCx2iq6z4owWIBnEqudUtV2qQq5ZsIQIASUekwQ"
+    },
+    "botlogs": {
+        "inviteLogs": "969528792420872192",
+        "feedbackChannel": "971005821959954514",
+        "bugChannel": "971005821959954514",
+        "suggestionChannel": "971005821959954514",
+        "commandLogsChannel": "971005599259197483",
+        "errorLogsChannel": "971005483332796427",
+        "premiumLogChannel": "971005640912830554"
+    },
+    "events": {
+        "Enable_debug": true
+    },
+    "Premium_Activator": "971377684670218320", 
+    "ownerID": ["367572336918003712", "850938117422448670", "894341012917477467", "780051183918252052", "942417302517854280","687993171749503062"],
+    "SlashCommandsGlobal": true,
+    "SlashCommand_Server_id": "960462723316072448",
+    "Enable_MongoDB": true
+}
